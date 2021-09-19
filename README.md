@@ -1,6 +1,6 @@
 # Ecommerce Restaurant website is create using React JS
 
-### Preview The Live Project [click here](https://github.com/facebook/create-react-app).
+### Preview The Live Project [click here](https://ecommerce-restaurant.netlify.app/).
 
 ## Libraries are use:
 * Styled Components
